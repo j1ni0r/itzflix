@@ -1,3 +1,6 @@
+Projeto que está sendo desenvolvido durante a semana de imersão react da Alura. 
+Está sendo iniciado com o npx-create-react-app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
